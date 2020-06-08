@@ -9,7 +9,6 @@ import Dashboard from "./user/UserDashboard";
 import AdminDashboard from "./user/AdminDashboard";
 import AddCategory from "./admin/AddCategory";
 
-
 function Routes() {
   console.log(window.location.href);
   return (
