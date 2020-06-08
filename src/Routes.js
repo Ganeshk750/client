@@ -8,6 +8,7 @@ import AdminRoute from "./auth/AdminRoute";
 import Dashboard from "./user/UserDashboard";
 import AdminDashboard from "./user/AdminDashboard";
 import AddCategory from "./admin/AddCategory";
+import AddProduct from "./admin/AddProduct";
 
 function Routes() {
   console.log(window.location.href);
